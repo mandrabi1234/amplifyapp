@@ -1,3 +1,18 @@
+.AppName{
+ font-size: 50px;
+ text-decoration: underline;
+}
+.awsText{
+  margin-left: 380px;
+  margin-top:-45px;
+  font-size:medium;
+}
+.headerText{
+  margin-right: 380px;
+  margin-bottom: -55px;
+  font-size: medium;
+}
+
 .App {
   text-align: center;
 }
